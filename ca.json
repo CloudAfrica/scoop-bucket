@@ -1,21 +1,21 @@
 {
-    "version": "0.3.1",
+    "version": "0.4.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/CloudAfrica/cloudafrica-cli/releases/download/v0.3.1/cloudafrica-cli_0.3.1_windows_amd64.zip",
+            "url": "https://github.com/CloudAfrica/cloudafrica-cli/releases/download/v0.4.0/cloudafrica-cli_0.4.0_windows_amd64.zip",
             "bin": [
                 "ca.exe",
                 "cloudafrica.exe"
             ],
-            "hash": "4c9894f9d4f0a6c46700a794cb87ae3d05feee2f02a3f05545a0b96620de6766"
+            "hash": "05600e55b383f0b0e3e3f89df9d973f4b99d35c336b0cfcff1f6694c14563e09"
         },
         "arm64": {
-            "url": "https://github.com/CloudAfrica/cloudafrica-cli/releases/download/v0.3.1/cloudafrica-cli_0.3.1_windows_arm64.zip",
+            "url": "https://github.com/CloudAfrica/cloudafrica-cli/releases/download/v0.4.0/cloudafrica-cli_0.4.0_windows_arm64.zip",
             "bin": [
                 "ca.exe",
                 "cloudafrica.exe"
             ],
-            "hash": "a1bb830f8f8dde4decc42d40df85777d760e7aabe7c0271fd67ca7450da6a7d5"
+            "hash": "4008b01818cce36eb389cfab6626de1e48bc8b2f0c4f96f70acf46875edf771f"
         }
     },
     "homepage": "https://github.com/CloudAfrica/cloudafrica-cli",
